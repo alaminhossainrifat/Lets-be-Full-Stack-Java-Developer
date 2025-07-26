@@ -1,0 +1,46 @@
+✅ 1. What is the difference between abstraction and encapsulation?
+✅ Sample Answer:
+
+- Abstraction is the process of hiding implementation details and showing only essential features. It’s done using abstract classes or interfaces.
+
+- Encapsulation is binding data and methods together and restricting direct access using private fields and getters/setters.
+
+✅ 2. How does Java support polymorphism? Explain with example.
+✅ Sample Answer:
+
+- Compile-time polymorphism is achieved through method overloading (same method name, different parameters).
+
+- Runtime polymorphism is achieved via method overriding, where a subclass provides a specific implementation of a method already defined in the parent class.
+
+✅ 3. What is inheritance? What are its types in Java?
+✅ Sample Answer:
+
+-Inheritance allows a class to acquire fields and methods of another class using the extends keyword.
+
+-Java supports:
+
+    Single inheritance
+
+    Multilevel inheritance
+
+    Hierarchical inheritance
+
+- Java does not support multiple inheritance with classes (to avoid ambiguity), but it supports it using interfaces.
+
+✅ 4. What is the difference between an abstract class and an interface?
+✅ Sample Answer:
+
+- Abstract class can have both abstract and non-abstract methods. It supports constructors and fields.
+
+- Interface can only have abstract methods (before Java 8), but from Java 8+, it can have default and static methods.
+
+- A class can extend only one abstract class but can implement multiple interfaces.
+
+✅ 5. What is encapsulation and why is it important in OOP?
+✅ Sample Answer:
+
+- Encapsulation is the concept of restricting direct access to fields and only accessing them through getters and setters.
+
+- It improves security, control, and maintainability of the code.
+
+- It’s achieved using private variables and public methods.

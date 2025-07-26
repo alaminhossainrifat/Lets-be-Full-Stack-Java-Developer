@@ -6,17 +6,17 @@ public class Main {
 
         // Variables, Data Types, Operators
 
-        String s = "Rifat";
-        int age = 10;
-        double size = 50.33;
-        char c = 'A';
-        float f = 50.5f;
+        // String s = "Rifat";
+        // int age = 10;
+        // double size = 50.33;
+        // char c = 'A';
+        // float f = 50.5f;
 
-        System.out.println("My name is: "+s);
-        System.out.println("Age is: "+age);
-        System.out.println("Room size: "+size);
-        System.out.println("First Alphabate: "+c);
-        System.out.println("Salary: "+f);
+        // System.out.println("My name is: "+s);
+        // System.out.println("Age is: "+age);
+        // System.out.println("Room size: "+size);
+        // System.out.println("First Alphabate: "+c);
+        // System.out.println("Salary: "+f);
 
 
         // Arithmetic Operator
@@ -160,4 +160,5 @@ public class Main {
         }
 
     }
+    
 }
